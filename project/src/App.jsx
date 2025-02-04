@@ -1,8 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import { Provider } from "@/components/ui/provider"
 
-function App({ Component, pageProps }) {
+function App() {
   return (
     <div className="App">
       <header className="App-header">
